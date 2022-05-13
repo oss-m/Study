@@ -231,7 +231,7 @@ namespace Study
             var students11 = students.Max(bt => bt.Grade);
             var students12 = students.Min(bt => bt.Grade);
             var students13 = students.Sum(bt => bt.Grade);
-            var students14 = students.Average(bt => bt.Grade);
+            var students15 = students.Average(bt => bt.Grade);
         }
         //Methods
         public static void Sum1()
